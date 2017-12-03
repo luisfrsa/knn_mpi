@@ -1,0 +1,17 @@
+::Iniciando::
+Teste: bases/test_256.data
+ Treino: bases/train_256.data
+MPI size: 10
+ Quantidade de testes: 2248 
+Quantidade de elementos: 256 
+Quantidade de treinos: 6746 
+Quantidade de elementos: 256 
+
+Quantidade de acertos: 1197
+Quantidade de erros: 1051
+Total: 2248
+
+
+real	0m12.449s
+user	0m47.952s
+sys	0m0.256s

@@ -1,0 +1,17 @@
+::Iniciando::
+Teste: bases/test_1601.data
+ Treino: bases/train_1601.data
+MPI size: 15
+ Quantidade de testes: 2248 
+Quantidade de elementos: 1601 
+Quantidade de treinos: 6746 
+Quantidade de elementos: 1601 
+
+Quantidade de acertos: 1058
+Quantidade de erros: 1190
+Total: 2248
+
+
+real	1m19.677s
+user	5m12.132s
+sys	0m2.508s

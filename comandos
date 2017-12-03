@@ -1,0 +1,2 @@
+mpicc ex4.c -o ex4
+mpirun -np 10 ex4

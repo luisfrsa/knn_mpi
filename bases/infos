@@ -1,0 +1,13 @@
+test  59   2248 elementos
+test  154  2248 elementos
+test  256  2248 elementos 
+test  1601 2248 elementos
+test  1379 2248 elementos
+
+train 1379 6746 elementos
+train 154  6746 elementos  
+train 1601 6745 elementos
+train 256  6746 elementos
+train 1379 6746 elementos
+train 59   6746 elementos
+
